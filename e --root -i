@@ -1,0 +1,42 @@
+[33mcommit d5b2caae9405600eab71d05209419bd7d1ac7112[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 1feaadd bf839a8
+Author: David <Dgagiev@gmail.com>
+Date:   Fri May 17 09:49:44 2024 +0300
+
+    Merge branch 'launcher' to main
+
+[33mcommit bf839a854662b1e47d36f7643cc91c8924495231[m[33m ([m[1;31morigin/launcher[m[33m)[m
+Author: David <Dgagiev@gmail.com>
+Date:   Fri May 17 09:34:16 2024 +0300
+
+    Launcher
+
+[33mcommit 1feaadd2775703f8735ec9429a7208883be4674a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David3415 <104300915+David3415@users.noreply.github.com>
+Date:   Fri May 17 09:29:43 2024 +0300
+
+    Initial commit
+
+[33mcommit 20727a92cbc77248f1bffeed94a0cbb3fa11f786[m
+Author: David <Dgagiev@gmail.com>
+Date:   Wed May 15 10:05:19 2024 +0300
+
+    2
+
+[33mcommit 894e471ecc44963c66ed5adc6c76d3d8ee746c11[m
+Author: David <Dgagiev@gmail.com>
+Date:   Wed May 15 09:23:49 2024 +0300
+
+    commit1
+
+[33mcommit b1eea4036342ab42538d5958ca6adcef370f875e[m
+Author: David <Dgagiev@gmail.com>
+Date:   Wed May 15 08:33:19 2024 +0300
+
+    br1 first commit
+
+[33mcommit 19f279e5c8524ed9914f0cdd0c39d1107fa11314[m
+Author: David <Dgagiev@gmail.com>
+Date:   Wed May 15 08:21:07 2024 +0300
+
+    init commit
